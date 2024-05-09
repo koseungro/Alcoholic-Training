@@ -9,6 +9,9 @@ using System.Security.Permissions;
 
 namespace FNI
 {
+	/// <summary>
+	/// 360 영상 콘텐츠 관련 기능 관리 클래스
+	/// </summary>
 	public class SZ_VideoPlayer : MonoBehaviour
 	{
 		#region Property
@@ -386,6 +389,11 @@ namespace FNI
 		}
 		#endregion
 
+		/// <summary>
+		/// 비디오 파일 존재 체크
+		/// </summary>
+		/// <param name="path"></param>
+		/// <returns></returns>
 		private bool CheckFileExists(string path)
 		{
 			FileInfo file = new FileInfo(path);
