@@ -202,6 +202,7 @@ namespace FNI
 
         }
         #endregion
+
         #region WaitTime
         private void WaitTime(CutData cData)
         {
@@ -215,6 +216,7 @@ namespace FNI
             EditorGUILayout.EndHorizontal();
         }
         #endregion
+        
         #region UI
         private void UI(CutData cData)
         {
@@ -345,6 +347,7 @@ namespace FNI
         }
 
         #endregion
+        
         #region Fade
         private void FadeInOut(CutData cData)
         {
@@ -362,6 +365,7 @@ namespace FNI
             EditorGUILayout.EndHorizontal();
         }
         #endregion
+        
         #region Data
         private void Data(CutData cData)
         {
@@ -376,6 +380,7 @@ namespace FNI
             EditorGUILayout.EndVertical();
         }
         #endregion
+        
         #region Video
         private void Video(CutData cData)
         {
@@ -519,6 +524,7 @@ namespace FNI
             EditorGUILayout.EndVertical();
         }
         #endregion
+        
         #region Lay
         private void Lay(CutData cData)
         {
@@ -530,6 +536,7 @@ namespace FNI
             EditorGUILayout.EndHorizontal();
         }
         #endregion
+        
         #region VR3D
         private void VR3D_UI(CutData cData)
         {
@@ -546,6 +553,7 @@ namespace FNI
 
         }
         #endregion
+        
         #region etc
 
         private void RecordActive(CutData cData)
@@ -723,7 +731,6 @@ namespace FNI
             EditorGUILayout.EndHorizontal();
         }
         #endregion
-
 
         #region Other
         private List<T> ListController<T>(List<T> list, bool isRight = true)
