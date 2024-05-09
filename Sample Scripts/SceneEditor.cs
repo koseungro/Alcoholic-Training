@@ -158,6 +158,7 @@ namespace FNI
             serializedObject.Update();
         }
 
+
         /// <summary>
         /// Visual Type 컷 데이터 관련 기능 구현 함수 목록
         /// </summary>
