@@ -1,0 +1,140 @@
+﻿
+[11:18:12.539] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully added VR manifest to SteamVR
+
+[11:18:12.552] [RestartApp] 
+
+[11:18:12.552] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully identified process as editor project to SteamVR (application.generated.unity.alcoholictraining.exe)
+[11:18:12.966] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully loaded 4 actions from action manifest into SteamVR (D:/Project/SR_Alcoholic Training/Alcoholic Training/Assets/StreamingAssets\SteamVR\actions.json)
+[11:18:12.988] [UNITYLOG][Log] : <b>[SteamVR]</b> Initialized. Connected to oculus : Oculus Quest2 : 1WMHHB442W2152 :: rift
+[11:18:13.005] [UNITYLOG][Log] : Camera = UICamera [False]
+[11:18:13.006] [UNITYLOG][Log] : UICamera = UICamera [True]
+[11:18:13.011] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[11:18:13.013] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[11:18:13.054] [UNITYLOG][Log] : loadedDeviceName: Oculus Quest2
+[11:18:13.064] [UNITYLOG][Log] : Camera = DisplayCamera [False]
+[11:18:13.065] [UNITYLOG][Log] : UICamera = DisplayCamera [False]
+[11:18:13.067] [UNITYLOG][Log] : DisplayCamera = DisplayCamera [True]
+[11:18:13.249] [UNITYLOG][Warning] : A Canvas named "Canvas" with a render mode of ScreenSpaceOverlay is being used while VR is also enabled. This Canvas will continue to incur a rendering cost, but will not be visible while in VR. Is this intentional?
+[11:18:22.911] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_left\oculus_quest2_controller_left_body.obj
+[11:18:23.044] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_left\oculus_quest2_controller_left_button_menu.obj
+[11:18:23.045] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_left\oculus_quest2_controller_left_grip.obj
+[11:18:23.047] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_left\oculus_quest2_controller_left_button_x.obj
+[11:18:23.048] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_left\oculus_quest2_controller_left_button_y.obj
+[11:18:23.050] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_left\oculus_quest2_controller_left_thumbstick.obj
+[11:18:23.052] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_left\oculus_quest2_controller_left_trigger.obj
+[11:18:23.054] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_body.obj
+[11:18:23.151] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_a.obj
+[11:18:23.153] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_b.obj
+[11:18:23.154] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_menu.obj
+[11:18:23.155] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_grip.obj
+[11:18:23.156] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_thumbstick.obj
+[11:18:23.158] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_trigger.obj
+[11:18:25.833] [UNITYLOG][Log] : Right
+[11:20:21.414] [UNITYLOG][Log] : 비디오경로: D:/Project/SR_Alcoholic Training/Alcoholic Training/Assets/../Video/S1/권유_1.mp4
+[11:22:12.054] [UNITYLOG][Log] : 루프 시작
+[11:22:12.054] [UNITYLOG][Log] : 루프 시작
+[11:22:28.979] [UNITYLOG][Log] : 녹음 시작
+[11:22:35.268] [UNITYLOG][Log] : 녹음 완료
+[11:22:41.570] [UNITYLOG][Log] : 비디오경로: D:/Project/SR_Alcoholic Training/Alcoholic Training/Assets/../Video/S1/권유_2.mp4
+[11:23:10.482] [UNITYLOG][Log] : 녹음 시작
+[11:23:15.661] [UNITYLOG][Log] : 녹음 완료
+[11:23:15.684] [UNITYLOG][Log] : 루프 시작
+[11:23:18.111] [UNITYLOG][Log] : 비디오경로: D:/Project/SR_Alcoholic Training/Alcoholic Training/Assets/../Video/S1/권유_3.mp4
+
+[11:23:18.467] [Application Quit]
+
+
+
+[14:17:44.604] [RestartApp] 
+
+[14:17:44.604] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully added VR manifest to SteamVR
+[14:17:44.606] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully identified process as editor project to SteamVR (application.generated.unity.alcoholictraining.exe)
+[14:17:45.067] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully loaded 4 actions from action manifest into SteamVR (D:/Project/SR_Alcoholic Training/Alcoholic Training/Assets/StreamingAssets\SteamVR\actions.json)
+[14:17:45.091] [UNITYLOG][Log] : <b>[SteamVR]</b> Initialized. Connected to oculus : Oculus Quest2 : 1WMHHB442W2152 :: rift
+[14:17:45.108] [UNITYLOG][Log] : Camera = UICamera [False]
+[14:17:45.109] [UNITYLOG][Log] : UICamera = UICamera [True]
+[14:17:45.113] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[14:17:45.116] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[14:17:45.155] [UNITYLOG][Log] : loadedDeviceName: Oculus Quest2
+[14:17:45.166] [UNITYLOG][Log] : Camera = DisplayCamera [False]
+[14:17:45.167] [UNITYLOG][Log] : UICamera = DisplayCamera [False]
+[14:17:45.168] [UNITYLOG][Log] : DisplayCamera = DisplayCamera [True]
+[14:17:45.359] [UNITYLOG][Warning] : A Canvas named "Canvas" with a render mode of ScreenSpaceOverlay is being used while VR is also enabled. This Canvas will continue to incur a rendering cost, but will not be visible while in VR. Is this intentional?
+
+[14:17:54.997] [Application Quit]
+
+
+
+[14:18:05.482] [RestartApp] 
+
+[14:18:05.482] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully added VR manifest to SteamVR
+[14:18:05.484] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully identified process as editor project to SteamVR (application.generated.unity.alcoholictraining.exe)
+[14:18:05.903] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully loaded 4 actions from action manifest into SteamVR (D:/Project/SR_Alcoholic Training/Alcoholic Training/Assets/StreamingAssets\SteamVR\actions.json)
+[14:18:05.925] [UNITYLOG][Log] : <b>[SteamVR]</b> Initialized. Connected to oculus : Oculus Quest2 : 1WMHHB442W2152 :: rift
+[14:18:05.945] [UNITYLOG][Log] : Camera = UICamera [False]
+[14:18:05.946] [UNITYLOG][Log] : UICamera = UICamera [True]
+[14:18:05.951] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[14:18:05.954] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[14:18:05.991] [UNITYLOG][Log] : loadedDeviceName: Oculus Quest2
+[14:18:05.998] [UNITYLOG][Log] : Camera = DisplayCamera [False]
+[14:18:05.999] [UNITYLOG][Log] : UICamera = DisplayCamera [False]
+[14:18:06.000] [UNITYLOG][Log] : DisplayCamera = DisplayCamera [True]
+[14:18:06.198] [UNITYLOG][Warning] : A Canvas named "Canvas" with a render mode of ScreenSpaceOverlay is being used while VR is also enabled. This Canvas will continue to incur a rendering cost, but will not be visible while in VR. Is this intentional?
+
+[14:18:10.549] [Application Quit]
+
+
+
+[14:22:18.175] [RestartApp] 
+
+[14:22:18.175] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully added VR manifest to SteamVR
+[14:22:18.178] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully identified process as editor project to SteamVR (application.generated.unity.alcoholictraining.exe)
+[14:22:18.647] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully loaded 4 actions from action manifest into SteamVR (D:/Project/SR_Alcoholic Training/Alcoholic Training/Assets/StreamingAssets\SteamVR\actions.json)
+[14:22:18.669] [UNITYLOG][Log] : <b>[SteamVR]</b> Initialized. Connected to oculus : Oculus Quest2 : 1WMHHB442W2152 :: rift
+[14:22:18.689] [UNITYLOG][Log] : Camera = UICamera [False]
+[14:22:18.690] [UNITYLOG][Log] : UICamera = UICamera [True]
+[14:22:18.695] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[14:22:18.697] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[14:22:18.792] [UNITYLOG][Log] : loadedDeviceName: Oculus Quest2
+[14:22:18.800] [UNITYLOG][Log] : Camera = DisplayCamera [False]
+[14:22:18.801] [UNITYLOG][Log] : UICamera = DisplayCamera [False]
+[14:22:18.802] [UNITYLOG][Log] : DisplayCamera = DisplayCamera [True]
+[14:22:18.991] [UNITYLOG][Warning] : A Canvas named "Canvas" with a render mode of ScreenSpaceOverlay is being used while VR is also enabled. This Canvas will continue to incur a rendering cost, but will not be visible while in VR. Is this intentional?
+
+[14:22:38.894] [Application Quit]
+
+
+
+[14:22:49.382] [RestartApp] 
+
+[14:22:49.382] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully added VR manifest to SteamVR
+[14:22:49.392] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully identified process as editor project to SteamVR (application.generated.unity.alcoholictraining.exe)
+[14:22:49.755] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully loaded 4 actions from action manifest into SteamVR (D:/Project/SR_Alcoholic Training/Alcoholic Training/Assets/StreamingAssets\SteamVR\actions.json)
+[14:22:49.779] [UNITYLOG][Log] : <b>[SteamVR]</b> Initialized. Connected to oculus : Oculus Quest2 : 1WMHHB442W2152 :: rift
+[14:22:49.799] [UNITYLOG][Log] : Camera = UICamera [False]
+[14:22:49.800] [UNITYLOG][Log] : UICamera = UICamera [True]
+[14:22:49.805] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[14:22:49.807] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[14:22:49.898] [UNITYLOG][Log] : loadedDeviceName: Oculus Quest2
+[14:22:49.906] [UNITYLOG][Log] : Camera = DisplayCamera [False]
+[14:22:49.907] [UNITYLOG][Log] : UICamera = DisplayCamera [False]
+[14:22:49.907] [UNITYLOG][Log] : DisplayCamera = DisplayCamera [True]
+[14:22:50.302] [UNITYLOG][Warning] : A Canvas named "Canvas" with a render mode of ScreenSpaceOverlay is being used while VR is also enabled. This Canvas will continue to incur a rendering cost, but will not be visible while in VR. Is this intentional?
+[14:23:13.831] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_left\oculus_quest2_controller_left_body.obj
+[14:23:13.978] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_left\oculus_quest2_controller_left_button_menu.obj
+[14:23:13.980] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_left\oculus_quest2_controller_left_grip.obj
+[14:23:13.981] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_left\oculus_quest2_controller_left_button_x.obj
+[14:23:13.984] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_left\oculus_quest2_controller_left_button_y.obj
+[14:23:13.986] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_left\oculus_quest2_controller_left_thumbstick.obj
+[14:23:13.989] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_left\oculus_quest2_controller_left_trigger.obj
+[14:23:13.993] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_body.obj
+[14:23:14.095] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_a.obj
+[14:23:14.097] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_b.obj
+[14:23:14.098] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_menu.obj
+[14:23:14.100] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_grip.obj
+[14:23:14.102] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_thumbstick.obj
+[14:23:14.105] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_trigger.obj
+[14:23:14.236] [UNITYLOG][Log] : Right
+
+[14:23:20.689] [Application Quit]
+

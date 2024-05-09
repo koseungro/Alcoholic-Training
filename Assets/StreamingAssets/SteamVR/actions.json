@@ -1,0 +1,38 @@
+{
+  "actions": [
+    {
+      "name": "/actions/OutDoorFinish/in/hmd",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/OutDoorFinish/in/click",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/OutDoorFinish/in/pose",
+      "type": "pose"
+    },
+    {
+      "name": "/actions/OutDoorFinish/out/vibration",
+      "type": "vibration"
+    }
+  ],
+  "action_sets": [
+    {
+      "name": "/actions/OutDoorFinish",
+      "usage": "single"
+    }
+  ],
+  "default_bindings": [
+    {
+      "controller_type": "holographic_controller",
+      "binding_url": "application_generated_unity_varabom_rm_outdoor_exe_binding_holographic_controller.json"
+    },
+    {
+      "controller_type": "holographic_hmd",
+      "binding_url": "application_generated_unity_varabom_rm_outdoor_exe_binding_holographic_hmd.json"
+    }
+  ],
+  "localization": []
+}

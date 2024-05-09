@@ -1,0 +1,68 @@
+﻿2018.08.27
+1. FNIVR_HMDManager
+	- 이미지 1장에서 로고, HMD이미지, Text, 배경 4파트로 나눴음
+	- FNIVR_Canvas_HMD의 캔버스가 DisplayCamera를 찾아서 적용하도록 수정됨
+	- Exit의 경우 UI카메라로 변경하여 벗을 수 있도록 수정함.
+2. FNIVR_OpenVRPlayer
+	- DisplayCamera추가
+	- DisplayCamera는 디스플레이 전용 카메라임
+3. FNIVR_HMDManager
+	- 상속받아서 사용가능 하도록 수정하였습니다.
+
+2018.08.28
+1. FNIVR_Fade
+	- FNIVR_Fade스크립트를 추가했습니다.
+	- FNIVR_Fade Prefabs도 추가했습니다.
+	- FNIVR_Fade.Instance.StartFade(FadeFlag.Fade_Out, FNIVR_Fade.Black);와 같은 방식으로 사용되어야 합니다.
+	--- 자세한 사용법은 클래스 내에 Update문을 참고하시기 바랍니다.
+	--- Fade_Out 혹은 UI_Out일 때는 반드시 해당되는 Fade_In과 UI_In을 사용하셔야 합니다.
+	--- Fade_Out 과 UI_Out는 서로 자동으로 상태를 변경하는 코드가 들어가있습니다.
+2. FNIVR_Device
+	- CurrentHandObj추가 현재 손의 컨트롤러 게임오브젝트를 바로 접속할 수 있습니다.
+	- HandActive 프로퍼티를 다시 추가 하였습니다.
+	--- HandActive가 다시 추가 되면서 HandActive()함수명을 SetHandActive()로 변경하였습니다.
+	- public void SetHandActive(HandActiveState value, bool isActive, params string[] ignoreName)
+	--- 인자를 더 추가 하였습니다.
+	--- 마지막 인자는 활서화와 비활성화 때 무시할 이름 입니다.
+
+2018.09.06
+1. FNIVR_OBJButton
+	- FNIVR_OBJButton스크립트를 추가 하였습니다.
+	- 오브젝트 일때 버튼 스크립트 예제이고 적용한 오브젝트 버튼은 레이어를 UI로 변경되게 되어 있습니다.
+	- 다른 스크립트로 오브젝트 버튼을 구현했을 때는 오브젝트 버튼의 레이어가 UI가 되도록 수정하여야 한다.
+2.FNIVR_HMDManager
+	-Start()
+	-{
+	-	m_First = false;추가
+	-}
+	-처음시작 때 착용하고 있으면 정상 작동하지 않는 문제 수정
+
+2018.09.13
+1. FNIVR_HMDManager
+	- 디스플레이용과 HMD용 두가지로 분리 함
+	- FNIVR_HMDManagerSupport추가하여 각각 리소스 관리 하도록 함
+	- public HMDStateImage[] hmdStates; 추가
+	--- 기존 문자 이미지만 바꾸는걸 센터이미지까지 바꾸게 함.
+2. FNIVR_GazePointerSurpport
+	- public bool alwayOnLine = false; 추가
+	- alwayOnLine가 True이면 LineActive = true; 상태에서 게이즈 포인터가 사라져도 라인은 살아 있게 됩니다.
+	- alwayOnLine가 False이면 LineActive = true; 상태에서 게이즈 포인터가 사라지면 라인도 사라지게 됩니다.
+
+2019.04.03
+1. SteamVR 버전업
+	- Ver2.0으로 업그레이드 하고 그에 따른 Input 시스템 업그레이드
+2. CameraPrefabs를 변경하였습니다.
+	- Player라는 Prefabs에서 기본 CameraRig를 이용한 Prefabs로 변경하였습니다.
+3. FNIVR_Device
+	- 클래스 목적과 관계없던 함수와 변수들 삭제함
+	- 사용되고 있는 손에 대한 피드백 수정
+4. FNIVR_HMDManager
+	- HMD의 착용 감지하는 부분을 수정하였습니다.
+5. FNIVR_GazePointerSurpport
+	- LineRenderer관리를 이곳으로 이동하였습니다.
+6. FNIVR_Input_Support
+	- onPress 이벤트를 추가 하였습니다.
+	- public bool IsPress Property를 추가 하였습니다.
+	- Trigger의 이벤트 상태를 받아 올 수 있는 Property를 추가 하였습니다.
+	- Controller 진동을 주는 함수를 수정하였습니다.
+	- 진동 횟수로 동작하는 함수를 추가 하였습니다.

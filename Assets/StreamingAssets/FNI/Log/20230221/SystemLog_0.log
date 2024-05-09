@@ -1,0 +1,1978 @@
+﻿
+[16:17:30.064] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully added VR manifest to SteamVR
+
+[16:17:30.083] [RestartApp] 
+
+[16:17:30.083] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully identified process as editor project to SteamVR (application.generated.unity.varabom_rm_outdoor.exe)
+[16:17:30.501] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully loaded 4 actions from action manifest into SteamVR (D:/Project/SR_Alcoholic Training/Alcoholic Training/Assets/StreamingAssets\SteamVR\actions.json)
+[16:17:30.522] [UNITYLOG][Log] : <b>[SteamVR]</b> Initialized. Connected to oculus : Oculus Quest2 : 1WMHHB442W2152 :: rift
+[16:17:30.542] [UNITYLOG][Log] : Camera = UICamera [False]
+[16:17:30.542] [UNITYLOG][Log] : UICamera = UICamera [True]
+[16:17:30.546] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[16:17:30.549] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[16:17:30.629] [UNITYLOG][Log] : loadedDeviceName: Oculus Quest2
+[16:17:30.637] [UNITYLOG][Log] : Camera = DisplayCamera [False]
+[16:17:30.638] [UNITYLOG][Log] : UICamera = DisplayCamera [False]
+[16:17:30.638] [UNITYLOG][Log] : DisplayCamera = DisplayCamera [True]
+[16:17:30.819] [UNITYLOG][Warning] : A Canvas named "Canvas" with a render mode of ScreenSpaceOverlay is being used while VR is also enabled. This Canvas will continue to incur a rendering cost, but will not be visible while in VR. Is this intentional?
+
+[16:17:38.765] [Application Quit]
+
+
+
+[16:17:44.199] [RestartApp] 
+
+[16:17:44.199] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully added VR manifest to SteamVR
+[16:17:44.201] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully identified process as editor project to SteamVR (application.generated.unity.varabom_rm_outdoor.exe)
+[16:17:44.663] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully loaded 4 actions from action manifest into SteamVR (D:/Project/SR_Alcoholic Training/Alcoholic Training/Assets/StreamingAssets\SteamVR\actions.json)
+[16:17:44.694] [UNITYLOG][Log] : <b>[SteamVR]</b> Initialized. Connected to oculus : Oculus Quest2 : 1WMHHB442W2152 :: rift
+[16:17:44.715] [UNITYLOG][Log] : Camera = UICamera [False]
+[16:17:44.716] [UNITYLOG][Log] : UICamera = UICamera [True]
+[16:17:44.720] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[16:17:44.722] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[16:17:44.791] [UNITYLOG][Log] : loadedDeviceName: Oculus Quest2
+[16:17:44.800] [UNITYLOG][Log] : Camera = DisplayCamera [False]
+[16:17:44.801] [UNITYLOG][Log] : UICamera = DisplayCamera [False]
+[16:17:44.801] [UNITYLOG][Log] : DisplayCamera = DisplayCamera [True]
+[16:17:44.972] [UNITYLOG][Warning] : A Canvas named "Canvas" with a render mode of ScreenSpaceOverlay is being used while VR is also enabled. This Canvas will continue to incur a rendering cost, but will not be visible while in VR. Is this intentional?
+[16:17:47.031] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_body.obj
+[16:17:47.153] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_a.obj
+[16:17:47.155] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_b.obj
+[16:17:47.156] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_menu.obj
+[16:17:47.158] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_grip.obj
+[16:17:47.159] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_thumbstick.obj
+[16:17:47.161] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_trigger.obj
+[16:18:29.959] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:114)
+
+[16:18:32.445] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:114)
+
+[16:18:35.089] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:114)
+
+[16:18:42.458] [UNITYLOG][Warning] : A meta data file (.meta) exists but its asset 'Assets/StreamingAssets/FNI/Log/20211019' can't be found. When moving or deleting files outside of Unity, please ensure that the corresponding .meta file is moved or deleted along with it.
+[16:18:52.877] [UNITYLOG][Error] : Coroutine couldn't be started because the the game object 'VR3D' is inactive!
+UnityEngine.MonoBehaviour:StartCoroutine (System.Collections.IEnumerator)
+FNI.SZ_VideoPlayer:SetVideoCtrl (FNI.VideoOption) (at Assets/FNI/Scripts/Runtime/Video/SZ_VideoPlayer.cs:128)
+VideoPlayerForSequence:VideoEvent (FNI.SZ_VideoPlayer,FNI.VideoOption) (at Assets/FNI/Scripts/Runtime/Sequence/VideoPlayerForSequence.cs:42)
+VideoPlayerForSequence:Active (FNI.CutData) (at Assets/FNI/Scripts/Runtime/Sequence/VideoPlayerForSequence.cs:28)
+FNI.Main:CutStart () (at Assets/FNI/Scripts/Runtime/Main.cs:197)
+FNI.Main:Update () (at Assets/FNI/Scripts/Runtime/Main.cs:102)
+
+[16:18:57.162] [UNITYLOG][Warning] : Cannot Play a disabled VideoPlayer
+
+[16:19:00.730] [Application Quit]
+
+
+
+[16:19:22.693] [RestartApp] 
+
+[16:19:22.693] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully added VR manifest to SteamVR
+[16:19:22.695] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully identified process as editor project to SteamVR (application.generated.unity.varabom_rm_outdoor.exe)
+[16:19:23.109] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully loaded 4 actions from action manifest into SteamVR (D:/Project/SR_Alcoholic Training/Alcoholic Training/Assets/StreamingAssets\SteamVR\actions.json)
+[16:19:23.131] [UNITYLOG][Log] : <b>[SteamVR]</b> Initialized. Connected to oculus : Oculus Quest2 : 1WMHHB442W2152 :: rift
+[16:19:23.154] [UNITYLOG][Log] : Camera = UICamera [False]
+[16:19:23.154] [UNITYLOG][Log] : UICamera = UICamera [True]
+[16:19:23.160] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[16:19:23.162] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[16:19:23.245] [UNITYLOG][Log] : loadedDeviceName: Oculus Quest2
+[16:19:23.252] [UNITYLOG][Log] : Camera = DisplayCamera [False]
+[16:19:23.253] [UNITYLOG][Log] : UICamera = DisplayCamera [False]
+[16:19:23.254] [UNITYLOG][Log] : DisplayCamera = DisplayCamera [True]
+[16:19:23.452] [UNITYLOG][Warning] : A Canvas named "Canvas" with a render mode of ScreenSpaceOverlay is being used while VR is also enabled. This Canvas will continue to incur a rendering cost, but will not be visible while in VR. Is this intentional?
+[16:19:24.440] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_body.obj
+[16:19:24.579] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_a.obj
+[16:19:24.580] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_b.obj
+[16:19:24.582] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_menu.obj
+[16:19:24.583] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_grip.obj
+[16:19:24.584] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_thumbstick.obj
+[16:19:24.585] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_trigger.obj
+
+[16:19:34.548] [Application Quit]
+
+
+
+[16:24:56.870] [RestartApp] 
+
+[16:24:56.870] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully added VR manifest to SteamVR
+[16:24:56.873] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully identified process as editor project to SteamVR (application.generated.unity.varabom_rm_outdoor.exe)
+[16:24:57.337] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully loaded 4 actions from action manifest into SteamVR (D:/Project/SR_Alcoholic Training/Alcoholic Training/Assets/StreamingAssets\SteamVR\actions.json)
+[16:24:57.358] [UNITYLOG][Log] : <b>[SteamVR]</b> Initialized. Connected to oculus : Oculus Quest2 : 1WMHHB442W2152 :: rift
+[16:24:57.382] [UNITYLOG][Log] : Camera = UICamera [False]
+[16:24:57.383] [UNITYLOG][Log] : UICamera = UICamera [True]
+[16:24:57.387] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[16:24:57.389] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[16:24:57.469] [UNITYLOG][Log] : loadedDeviceName: Oculus Quest2
+[16:24:57.477] [UNITYLOG][Log] : Camera = DisplayCamera [False]
+[16:24:57.477] [UNITYLOG][Log] : UICamera = DisplayCamera [False]
+[16:24:57.478] [UNITYLOG][Log] : DisplayCamera = DisplayCamera [True]
+[16:24:57.673] [UNITYLOG][Warning] : A Canvas named "Canvas" with a render mode of ScreenSpaceOverlay is being used while VR is also enabled. This Canvas will continue to incur a rendering cost, but will not be visible while in VR. Is this intentional?
+[16:24:58.649] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_body.obj
+[16:24:58.788] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_a.obj
+[16:24:58.789] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_b.obj
+[16:24:58.790] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_menu.obj
+[16:24:58.791] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_grip.obj
+[16:24:58.792] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_thumbstick.obj
+[16:24:58.794] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_trigger.obj
+[16:25:36.477] [UNITYLOG][Log] : 비디오경로: D:/Project/SR_Alcoholic Training/Alcoholic Training/Assets/../Video/S1/권유_1.mp4
+[16:25:48.676] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.ChangeSequence (FNI.SceneData data) (at Assets/FNI/Scripts/Runtime/Main.cs:428)
+FNI.Main.ChangeScene (FNI.SceneData scene) (at Assets/FNI/Scripts/Runtime/Main.cs:432)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:146)
+
+[16:26:42.479] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.493] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.507] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.521] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.536] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.558] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.566] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.578] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.591] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.604] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.618] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.632] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.646] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.661] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.678] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.690] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.711] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.721] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.730] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.743] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.757] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.771] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.785] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.799] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.813] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.827] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.841] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.864] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.877] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.886] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.896] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.910] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.924] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.938] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.952] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.967] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.980] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:42.994] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.017] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.027] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.036] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.049] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.063] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.077] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.094] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.105] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.119] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.133] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.148] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.170] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.179] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.190] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.202] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.216] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.230] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.244] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.258] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.273] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.286] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.303] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.325] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.334] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.343] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.355] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.370] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.383] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.397] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.411] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.426] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.440] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.454] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.476] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.485] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.496] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.512] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.524] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.537] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.551] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.565] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.580] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.593] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.607] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.635] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.644] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.655] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.664] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.677] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.691] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.704] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.720] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.732] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.746] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.760] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.782] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.792] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.802] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.821] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.830] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.842] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.856] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.869] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.884] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.898] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.912] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.937] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.946] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.955] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.967] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.980] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:43.995] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.008] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.023] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.036] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.050] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.066] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.089] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.100] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.110] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.122] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.138] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.149] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.164] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.178] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.192] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.205] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.219] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.241] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.250] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.260] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.275] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.289] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.302] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.316] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.330] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.346] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.358] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.372] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.396] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.405] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.413] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.427] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.441] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.454] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.469] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.483] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.496] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.511] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.525] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.547] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.558] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.568] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.580] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.595] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.608] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.621] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.636] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.650] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.664] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.678] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.702] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.711] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.720] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.732] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.747] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.761] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.777] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.789] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.803] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.817] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.832] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.854] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.863] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.874] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.886] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.900] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.915] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.929] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.943] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.956] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.970] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:44.987] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.006] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.016] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.026] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.041] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.055] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.068] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.082] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.096] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.110] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.124] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.138] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.163] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.173] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.186] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.197] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.209] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.222] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.236] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.249] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.264] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.278] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.293] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.316] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.326] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.335] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.348] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.362] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.376] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.393] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.402] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.417] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.431] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.445] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.469] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.479] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.490] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.502] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.515] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.528] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.548] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.558] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.570] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.583] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.600] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.620] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.629] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.639] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.652] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.666] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.680] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.694] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.708] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.722] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.737] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.750] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.773] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.782] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.792] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.808] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.819] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.834] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.847] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.862] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.876] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.890] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.904] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.926] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.936] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.945] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.959] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.973] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:45.987] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.000] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.016] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.029] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.043] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.057] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.079] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.089] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.098] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.112] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.125] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.140] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.153] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.167] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.181] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.196] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.210] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.236] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.245] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.254] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.267] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.281] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.294] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.308] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.321] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.335] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.350] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.365] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.386] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.401] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.412] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.424] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.433] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.448] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.462] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.476] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.491] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.504] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.518] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.540] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.550] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.561] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.572] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.587] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.601] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.614] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.630] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.642] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.656] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.670] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.695] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.708] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.718] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.728] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.739] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.755] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.768] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.782] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.795] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.809] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.824] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.851] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.864] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.876] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.886] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.896] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.911] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.922] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.936] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.948] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.961] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:46.977] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.000] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.011] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.021] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.032] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.049] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.059] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.073] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.086] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.101] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.114] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.128] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.153] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.163] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.173] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.182] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.197] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.210] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.224] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.238] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.261] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.272] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.283] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.303] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.313] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.323] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.333] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.348] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.362] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.376] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.391] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.404] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.418] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.432] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.447] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.472] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.485] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.495] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.505] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.520] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.531] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.542] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.558] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.570] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.583] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.599] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.622] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.631] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.641] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.654] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.671] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.683] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.697] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.713] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.728] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.742] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.756] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.779] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.791] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.804] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.818] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.828] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.841] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.853] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.863] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.878] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.890] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.904] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.918] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.942] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.951] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.960] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.974] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:47.988] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.003] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.016] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.031] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.044] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.059] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.073] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.104] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.115] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.129] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.143] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.157] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.172] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.185] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.199] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.212] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.226] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.250] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.259] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.267] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.282] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.297] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.309] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.324] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.338] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.351] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.365] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.380] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.402] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.411] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.420] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.434] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.448] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.462] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.476] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.490] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.508] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.518] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.532] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.556] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.565] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.575] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.588] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.602] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.616] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.630] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.644] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.658] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.672] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.686] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.709] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.723] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.731] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.741] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.755] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.768] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.782] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.941] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+[16:26:48.992] [UNITYLOG][Exception] : NullReferenceException: Object reference not set to an instance of an object
+FNI.Main.Check () (at Assets/FNI/Scripts/Runtime/Main.cs:246)
+FNI.Main.Update () (at Assets/FNI/Scripts/Runtime/Main.cs:104)
+
+
+[16:26:49.036] [Application Quit]
+
+
+
+[16:26:52.721] [RestartApp] 
+
+[16:26:52.721] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully added VR manifest to SteamVR
+[16:26:52.729] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully identified process as editor project to SteamVR (application.generated.unity.varabom_rm_outdoor.exe)
+[16:26:53.191] [UNITYLOG][Log] : <b>[SteamVR]</b> Successfully loaded 4 actions from action manifest into SteamVR (D:/Project/SR_Alcoholic Training/Alcoholic Training/Assets/StreamingAssets\SteamVR\actions.json)
+[16:26:53.214] [UNITYLOG][Log] : <b>[SteamVR]</b> Initialized. Connected to oculus : Oculus Quest2 : 1WMHHB442W2152 :: rift
+[16:26:53.235] [UNITYLOG][Log] : Camera = UICamera [False]
+[16:26:53.237] [UNITYLOG][Log] : UICamera = UICamera [True]
+[16:26:53.242] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[16:26:53.243] [UNITYLOG][Warning] : DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[16:26:53.316] [UNITYLOG][Log] : loadedDeviceName: Oculus Quest2
+[16:26:53.324] [UNITYLOG][Log] : Camera = DisplayCamera [False]
+[16:26:53.325] [UNITYLOG][Log] : UICamera = DisplayCamera [False]
+[16:26:53.325] [UNITYLOG][Log] : DisplayCamera = DisplayCamera [True]
+[16:26:53.512] [UNITYLOG][Warning] : A Canvas named "Canvas" with a render mode of ScreenSpaceOverlay is being used while VR is also enabled. This Canvas will continue to incur a rendering cost, but will not be visible while in VR. Is this intentional?
+[16:26:54.456] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_body.obj
+[16:26:54.597] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_a.obj
+[16:26:54.598] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_b.obj
+[16:26:54.599] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_button_menu.obj
+[16:26:54.599] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_grip.obj
+[16:26:54.600] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_thumbstick.obj
+[16:26:54.602] [UNITYLOG][Log] : <b>[SteamVR]</b> Loading render model C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\oculus_quest2_controller_right\oculus_quest2_controller_right_trigger.obj
+[16:27:33.922] [UNITYLOG][Log] : 비디오경로: D:/Project/SR_Alcoholic Training/Alcoholic Training/Assets/../Video/S1/권유_1.mp4
+[16:29:07.076] [UNITYLOG][Log] : 녹음 시작
+[16:29:15.318] [UNITYLOG][Log] : 녹음 완료
+[16:29:15.364] [UNITYLOG][Log] : 루프 시작
+[16:29:44.813] [UNITYLOG][Log] : 비디오경로: D:/Project/SR_Alcoholic Training/Alcoholic Training/Assets/../Video/S1/권유_2.mp4
+
+[16:29:46.609] [Application Quit]
+

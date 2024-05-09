@@ -1,0 +1,97 @@
+{
+   "action_manifest_version" : 0,
+   "alias_info" : {},
+   "app_key" : "application.generated.unity.varabom_rm_outdoor.exe",
+   "bindings" : {
+      "/actions/outdoor3" : {
+         "haptics" : [
+            {
+               "output" : "/actions/outdoor3/out/vibration",
+               "path" : "/user/hand/left/output/haptic"
+            },
+            {
+               "output" : "/actions/outdoor3/out/vibration",
+               "path" : "/user/hand/right/output/haptic"
+            }
+         ],
+         "poses" : [
+            {
+               "output" : "/actions/outdoor3/in/pose",
+               "path" : "/user/hand/left/pose/raw"
+            },
+            {
+               "output" : "/actions/outdoor3/in/pose",
+               "path" : "/user/hand/right/pose/raw"
+            }
+         ],
+         "sources" : [
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/outdoor3/in/click"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/hand/left/input/trigger"
+            },
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/outdoor3/in/click"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/hand/right/input/trigger"
+            }
+         ]
+      },
+      "/actions/outdoorfinish" : {
+         "haptics" : [
+            {
+               "output" : "/actions/outdoorfinish/out/vibration",
+               "path" : "/user/hand/left/output/haptic"
+            },
+            {
+               "output" : "/actions/outdoorfinish/out/vibration",
+               "path" : "/user/hand/right/output/haptic"
+            }
+         ],
+         "poses" : [
+            {
+               "output" : "/actions/outdoorfinish/in/pose",
+               "path" : "/user/hand/left/pose/raw"
+            },
+            {
+               "output" : "/actions/outdoorfinish/in/pose",
+               "path" : "/user/hand/right/pose/raw"
+            }
+         ],
+         "sources" : [
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/outdoorfinish/in/click"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/hand/left/input/trigger"
+            },
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/outdoorfinish/in/click"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/hand/right/input/trigger"
+            }
+         ]
+      }
+   },
+   "category" : "steamvr_input",
+   "controller_type" : "oculus_touch",
+   "description" : "",
+   "name" : "My VARABOM_RM_Outdoor [Testing] configuration for Oculus Touch",
+   "options" : {},
+   "simulated_actions" : []
+}
